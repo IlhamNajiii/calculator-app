@@ -1,0 +1,15 @@
+D:\Amikom\semester 2\Pemrograman\CalculatorConsoleApp\bin\Debug\net6.0\CalculatorConsoleApp.exe
+D:\Amikom\semester 2\Pemrograman\CalculatorConsoleApp\bin\Debug\net6.0\CalculatorConsoleApp.deps.json
+D:\Amikom\semester 2\Pemrograman\CalculatorConsoleApp\bin\Debug\net6.0\CalculatorConsoleApp.runtimeconfig.json
+D:\Amikom\semester 2\Pemrograman\CalculatorConsoleApp\bin\Debug\net6.0\CalculatorConsoleApp.dll
+D:\Amikom\semester 2\Pemrograman\CalculatorConsoleApp\bin\Debug\net6.0\CalculatorConsoleApp.pdb
+D:\Amikom\semester 2\Pemrograman\CalculatorConsoleApp\obj\Debug\net6.0\CalculatorConsoleApp.csproj.AssemblyReference.cache
+D:\Amikom\semester 2\Pemrograman\CalculatorConsoleApp\obj\Debug\net6.0\CalculatorConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Amikom\semester 2\Pemrograman\CalculatorConsoleApp\obj\Debug\net6.0\CalculatorConsoleApp.AssemblyInfoInputs.cache
+D:\Amikom\semester 2\Pemrograman\CalculatorConsoleApp\obj\Debug\net6.0\CalculatorConsoleApp.AssemblyInfo.cs
+D:\Amikom\semester 2\Pemrograman\CalculatorConsoleApp\obj\Debug\net6.0\CalculatorConsoleApp.csproj.CoreCompileInputs.cache
+D:\Amikom\semester 2\Pemrograman\CalculatorConsoleApp\obj\Debug\net6.0\CalculatorConsoleApp.dll
+D:\Amikom\semester 2\Pemrograman\CalculatorConsoleApp\obj\Debug\net6.0\refint\CalculatorConsoleApp.dll
+D:\Amikom\semester 2\Pemrograman\CalculatorConsoleApp\obj\Debug\net6.0\CalculatorConsoleApp.pdb
+D:\Amikom\semester 2\Pemrograman\CalculatorConsoleApp\obj\Debug\net6.0\CalculatorConsoleApp.genruntimeconfig.cache
+D:\Amikom\semester 2\Pemrograman\CalculatorConsoleApp\obj\Debug\net6.0\ref\CalculatorConsoleApp.dll
